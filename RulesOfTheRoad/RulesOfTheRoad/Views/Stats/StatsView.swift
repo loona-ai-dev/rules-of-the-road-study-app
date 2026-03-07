@@ -184,7 +184,6 @@ struct StatsView: View {
                 ForEach(0..<5) { box in
                     let count = boxCounts[box] ?? 0
                     let fraction = totalQuestions > 0 ? Double(count) / Double(totalQuestions) : 0
-                    let interval = SpacedRepetition.intervals[box]
                     let intervalText = box == 0 ? "Immediate" :
                         box == 1 ? "1 day" :
                         box == 2 ? "3 days" :
