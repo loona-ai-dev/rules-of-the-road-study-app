@@ -1,0 +1,254 @@
+{
+  "Rule 1": {
+    "title": "Application",
+    "part": "A - General",
+    "summary": "These Rules apply to all vessels on high seas (International) and inland waters (Inland). Special rules for roadsteads, harbors, rivers may be made by appropriate authority. Vessels 12m+ must carry a copy of these Rules.",
+    "keywords": ["application", "apply", "inland waters", "high seas", "special rules", "carry a copy", "12 meters", "great lakes", "western rivers", "canadian waters", "alternative compliance", "certificate"]
+  },
+  "Rule 2": {
+    "title": "Responsibility",
+    "part": "A - General",
+    "summary": "Nothing in these Rules exonerates any vessel from neglect of these Rules or neglect of ordinary seamanship. Due regard shall be had to all dangers of navigation and special circumstances which may require departure from these Rules to avoid immediate danger.",
+    "keywords": ["responsibility", "neglect", "ordinary practice of seamen", "special circumstances", "departure from", "immediate danger", "good seamanship", "precaution"]
+  },
+  "Rule 3": {
+    "title": "General Definitions",
+    "part": "A - General",
+    "summary": "Defines key terms: vessel, power-driven vessel, sailing vessel, vessel engaged in fishing, vessel not under command, vessel restricted in ability to maneuver, vessel constrained by draft, underway, length, breadth, in sight, restricted visibility, WIG craft, Western Rivers, Great Lakes, Inland Waters.",
+    "keywords": ["definition", "defined", "power-driven", "sailing vessel", "engaged in fishing", "not under command", "restricted in", "ability to maneuver", "constrained by", "draft", "underway", "length", "breadth", "in sight", "restricted visibility", "western rivers", "great lakes", "inland waters", "seaplane", "WIG craft", "wing-in-ground"]
+  },
+  "Rule 4": {
+    "title": "Application (Steering and Sailing Rules)",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Rules 4-10 apply in any condition of visibility.",
+    "keywords": ["any condition of visibility", "rules 4 through 10"]
+  },
+  "Rule 5": {
+    "title": "Look-out",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Every vessel shall at all times maintain a proper look-out by sight and hearing as well as by all available means appropriate in the prevailing circumstances and conditions so as to make a full appraisal of the situation and of the risk of collision.",
+    "keywords": ["look-out", "lookout", "sight and hearing", "proper look-out", "all available means", "full appraisal"]
+  },
+  "Rule 6": {
+    "title": "Safe Speed",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Every vessel shall at all times proceed at a safe speed so she can take proper and effective action to avoid collision and be stopped within an appropriate distance. Factors include visibility, traffic density, maneuverability, background light, wind/sea/current, draft, and radar characteristics.",
+    "keywords": ["safe speed", "stopped within", "traffic density", "maneuverability", "stopping distance", "turning ability", "background light", "radar range", "radar detection"]
+  },
+  "Rule 7": {
+    "title": "Risk of Collision",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Every vessel shall use all available means to determine if risk of collision exists. If any doubt, risk shall be deemed to exist. Compass bearing not appreciably changing indicates risk. Assumptions shall not be made on scanty information.",
+    "keywords": ["risk of collision", "compass bearing", "not appreciably change", "bearing change", "scanty information", "radar plotting", "all available means", "doubt"]
+  },
+  "Rule 8": {
+    "title": "Action to Avoid Collision",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Action to avoid collision shall be positive, made in ample time, readily apparent. Alteration of course alone may be most effective if made in good time. Shall result in passing at a safe distance. May slacken speed, stop, or reverse.",
+    "keywords": ["avoid collision", "action to avoid", "positive", "ample time", "readily apparent", "large enough", "succession of small", "safe distance", "slacken", "reverse", "stopping", "impede the passage", "not to impede"]
+  },
+  "Rule 9": {
+    "title": "Narrow Channels",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Vessel in narrow channel shall keep to starboard side. Vessels under 20m and sailing vessels shall not impede vessels that can only navigate within the channel. Fishing vessels shall not impede passage. Special rules for overtaking in channels. Sound signal near bends. Avoid anchoring in channels. On Western Rivers/Great Lakes, downbound vessel with current has right-of-way.",
+    "keywords": ["narrow channel", "fairway", "starboard side", "less than 20 meters", "impede the passage", "overtaking", "bend", "avoid anchoring", "downbound", "upbound", "following current", "right-of-way", "western rivers"]
+  },
+  "Rule 10": {
+    "title": "Traffic Separation Schemes",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Vessels using traffic separation schemes shall proceed in appropriate lane, keep clear of separation line/zone, join/leave at termination or at small angle. Cross at right angles. Vessels under 20m and sailing vessels shall not impede power-driven vessels in traffic lanes.",
+    "keywords": ["traffic separation", "traffic lane", "separation zone", "separation line", "inshore traffic zone", "right angles", "cross", "termination"]
+  },
+  "Rule 11": {
+    "title": "Application (Vessels in Sight)",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Rules 11-18 apply to vessels in sight of one another.",
+    "keywords": ["in sight of one another", "rules 11 through 18"]
+  },
+  "Rule 12": {
+    "title": "Sailing Vessels",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "When two sailing vessels approach with risk of collision: wind on different sides, port-tack vessel keeps clear. Wind on same side, windward vessel keeps clear. Port-tack vessel seeing windward vessel and unsure of wind side shall keep clear. Windward side is opposite the mainsail.",
+    "keywords": ["sailing vessel", "wind on", "port side", "starboard side", "windward", "leeward", "port tack", "starboard tack", "mainsail"]
+  },
+  "Rule 13": {
+    "title": "Overtaking",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Any vessel overtaking another shall keep out of the way. Overtaking means coming up from more than 22.5 degrees abaft the beam (can only see sternlight at night). When in doubt, assume overtaking. Subsequent bearing changes do not relieve the overtaking vessel.",
+    "keywords": ["overtaking", "overtake", "22.5 degrees", "abaft", "sternlight", "keep out of the way", "past and clear", "coming up"]
+  },
+  "Rule 14": {
+    "title": "Head-on Situation",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "When two power-driven vessels meet head-on, each shall alter course to starboard to pass port to port. Situation exists when masthead lights are in line and/or both sidelights visible. When in doubt, assume head-on. On Western Rivers/Great Lakes, downbound vessel has right-of-way.",
+    "keywords": ["head-on", "head on", "meeting", "reciprocal", "alter course to starboard", "port to port", "masthead lights in a line", "both sidelights"]
+  },
+  "Rule 15": {
+    "title": "Crossing Situation",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "When two power-driven vessels cross with risk of collision, the vessel with the other on her starboard side shall keep out of the way and avoid crossing ahead. On Western Rivers/Great Lakes, vessel crossing a river keeps out of way of vessel ascending/descending.",
+    "keywords": ["crossing", "cross", "starboard side", "keep out of the way", "avoid crossing ahead", "give-way", "stand-on", "crossing a river"]
+  },
+  "Rule 16": {
+    "title": "Action by Give-way Vessel",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "The give-way vessel shall take early and substantial action to keep well clear.",
+    "keywords": ["give-way", "give way", "early and substantial", "keep well clear"]
+  },
+  "Rule 17": {
+    "title": "Action by Stand-on Vessel",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "The stand-on vessel shall maintain course and speed. May take action to avoid collision when apparent the give-way vessel is not acting. Shall take action when collision cannot be avoided by give-way vessel alone. Shall not alter course to port for vessel on port side.",
+    "keywords": ["stand-on", "maintain course and speed", "keep her course", "shall take such action", "best aid to avoid", "not alter course to port", "port side"]
+  },
+  "Rule 18": {
+    "title": "Responsibilities Between Vessels",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Hierarchy of vessel privileges: Power-driven keeps clear of NUC, RAM, fishing, sailing. Sailing keeps clear of NUC, RAM, fishing. Fishing keeps clear of NUC, RAM. Constrained by draft vessels have special consideration (International only). Seaplanes keep clear of all.",
+    "keywords": ["responsibilities between", "power-driven", "keep out of the way", "not under command", "restricted in her ability", "engaged in fishing", "sailing vessel", "constrained by her draft", "seaplane", "hierarchy"]
+  },
+  "Rule 19": {
+    "title": "Conduct of Vessels in Restricted Visibility",
+    "part": "B - Steering and Sailing Rules",
+    "summary": "Applies to vessels not in sight of one another in restricted visibility. Proceed at safe speed, engines ready. Vessel detecting another by radar alone shall determine if close-quarters developing. Avoid alteration to port for vessel forward of beam. Hearing fog signal forward of beam, reduce speed to minimum.",
+    "keywords": ["restricted visibility", "fog", "not in sight", "radar alone", "close-quarters", "alteration to port", "forward of the beam", "fog signal", "reduce speed", "minimum", "extreme caution", "engines ready"]
+  },
+  "Rule 20": {
+    "title": "Application (Lights and Shapes)",
+    "part": "C - Lights and Shapes",
+    "summary": "Rules 20-31 apply in all weathers. Lights from sunset to sunrise. Shapes by day. Lights in restricted visibility. No other lights that could be mistaken for prescribed lights.",
+    "keywords": ["sunset to sunrise", "all weathers", "shapes", "by day", "restricted visibility", "mistaken for"]
+  },
+  "Rule 21": {
+    "title": "Definitions (Lights)",
+    "part": "C - Lights and Shapes",
+    "summary": "Defines masthead light (225 degrees white, forward), sidelights (112.5 degrees, green starboard/red port), sternlight (135 degrees white, aft), towing light (yellow, same as stern), all-round light (360 degrees), flashing light (120+ flashes/min), special flashing light (Inland: yellow, 50-70 flashes/min, 180-225 degrees).",
+    "keywords": ["masthead light", "sidelights", "sternlight", "towing light", "all-round light", "flashing light", "special flashing", "225 degrees", "112.5 degrees", "135 degrees", "360 degrees", "120 flashes", "arc of visibility", "green", "red", "white", "yellow"]
+  },
+  "Rule 22": {
+    "title": "Visibility of Lights",
+    "part": "C - Lights and Shapes",
+    "summary": "Minimum visibility ranges for lights: 50m+ vessels masthead 6nm, sidelight 3nm, sternlight 3nm, towing 3nm. 12-50m vessels masthead 5nm (3nm if under 20m), sidelight 2nm. Under 12m masthead 2nm, sidelight 1nm.",
+    "keywords": ["visibility of lights", "range", "miles", "nautical miles", "6 miles", "5 miles", "3 miles", "2 miles", "1 mile", "50 meters", "12 meters", "20 meters"]
+  },
+  "Rule 23": {
+    "title": "Power-driven Vessels Underway",
+    "part": "C - Lights and Shapes",
+    "summary": "Power-driven vessel underway shows masthead light forward, second masthead light abaft and higher (50m+), sidelights, sternlight. Vessels under 50m not obliged to show second masthead. Under 12m may show all-round white and sidelights instead. Under 7m and under 7 knots may show all-round white.",
+    "keywords": ["power-driven", "underway", "masthead light", "second masthead", "50 meters", "12 meters", "7 meters", "all-round white", "sidelights", "sternlight", "air cushion", "hovercraft"]
+  },
+  "Rule 24": {
+    "title": "Towing and Pushing",
+    "part": "C - Lights and Shapes",
+    "summary": "Towing vessel shows two masthead lights forward if tow under 200m, three if over 200m. Also sidelights, sternlight, and towing light. Tow over 200m shows diamond shape by day. Pushed vessel shows sidelights forward. Inland: special flashing light on pushed ahead or alongside composite.",
+    "keywords": ["towing", "tow", "pushing", "pushed ahead", "alongside", "200 meters", "two masthead", "three masthead", "towing light", "diamond shape", "special flashing", "composite unit", "length of tow"]
+  },
+  "Rule 25": {
+    "title": "Sailing Vessels Underway and Vessels Under Oars",
+    "part": "C - Lights and Shapes",
+    "summary": "Sailing vessel shows sidelights and sternlight. May show red over green all-round at masthead. Under 20m may combine in one lantern. Under 7m shall show white light or have ready a torch/lantern. Vessel under oars may show lights of sailing vessel or white light.",
+    "keywords": ["sailing", "under oars", "red over green", "sail", "combined lantern", "torch", "flashlight", "white light"]
+  },
+  "Rule 26": {
+    "title": "Fishing Vessels",
+    "part": "C - Lights and Shapes",
+    "summary": "Trawling: green over white all-round lights, shape of two cones. Other fishing: red over white all-round, shape of two cones. Making way also shows sidelights and sternlight. Gear extending over 150m shows cone pointing in direction of gear. Under 20m may show basket instead of shapes.",
+    "keywords": ["fishing", "trawling", "trawl", "nets", "green over white", "red over white", "two cones", "basket", "gear extending", "150 meters", "trolling"]
+  },
+  "Rule 27": {
+    "title": "Vessels Not Under Command or Restricted in Ability to Maneuver",
+    "part": "C - Lights and Shapes",
+    "summary": "NUC: two red all-round lights vertical, two balls. RAM: red-white-red vertical all-round, ball-diamond-ball. Dredging: red-white-red plus red-red on obstructed side, green-green on clear side. Mining: three green all-round vertical. Under 12m NUC/RAM not required to show these lights.",
+    "keywords": ["not under command", "restricted in ability", "dredging", "mine clearance", "red white red", "two red", "ball diamond ball", "two balls", "obstructed side", "clear side", "green green", "red red", "three green"]
+  },
+  "Rule 28": {
+    "title": "Vessels Constrained by Their Draft",
+    "part": "C - Lights and Shapes",
+    "summary": "International only: may show three red all-round lights vertical, or a cylinder shape by day, in addition to lights for power-driven vessel.",
+    "keywords": ["constrained by draft", "three red", "cylinder", "international only"]
+  },
+  "Rule 29": {
+    "title": "Pilot Vessels",
+    "part": "C - Lights and Shapes",
+    "summary": "Pilot vessel on duty shows white over red all-round at masthead, plus sidelights and sternlight when underway. At anchor shows pilot lights plus anchor light. Pilot vessel not on duty shows normal vessel lights.",
+    "keywords": ["pilot vessel", "pilot", "white over red", "pilot duty"]
+  },
+  "Rule 30": {
+    "title": "Anchored Vessels and Vessels Aground",
+    "part": "C - Lights and Shapes",
+    "summary": "Anchored vessel shows all-round white forward and aft (aft lower). 50m+ also illuminates decks. Under 50m may show one all-round white. Under 7m not required if not in/near narrow channel or anchorage. Aground shows anchor lights plus two red all-round vertical. Inland: barges at special anchorage need only one all-round white.",
+    "keywords": ["anchor", "anchored", "aground", "anchor light", "ball", "two red", "special anchorage", "illuminate decks", "all-round white"]
+  },
+  "Rule 31": {
+    "title": "Seaplanes",
+    "part": "C - Lights and Shapes",
+    "summary": "Seaplanes unable to show lights/shapes of exact characteristics shall show lights/shapes as closely similar as possible.",
+    "keywords": ["seaplane", "aircraft"]
+  },
+  "Rule 32": {
+    "title": "Definitions (Sound Signals)",
+    "part": "D - Sound and Light Signals",
+    "summary": "Defines whistle, short blast (about 1 second), prolonged blast (4 to 6 seconds).",
+    "keywords": ["whistle", "short blast", "prolonged blast", "1 second", "4 to 6 seconds", "duration", "sound signal"]
+  },
+  "Rule 33": {
+    "title": "Equipment for Sound Signals",
+    "part": "D - Sound and Light Signals",
+    "summary": "Vessels 12m+ shall carry whistle, 20m+ also bell, 100m+ also gong. Under 12m not obliged but must have some means of making efficient signal. Bell/gong may be replaced by equivalent.",
+    "keywords": ["equipment", "whistle", "bell", "gong", "100 meters", "20 meters", "12 meters", "sound signal equipment"]
+  },
+  "Rule 34": {
+    "title": "Maneuvering and Warning Signals",
+    "part": "D - Sound and Light Signals",
+    "summary": "International: One short blast = altering to starboard, two = port, three = operating astern. Inland: One blast = intend to pass on port side (leave to port), two blasts = intend to pass on starboard side. Doubt/danger signal: five or more rapid blasts. Bend signal: one prolonged blast. Overtaking signals in channels.",
+    "keywords": ["maneuvering signal", "warning signal", "one short blast", "two short blasts", "three short blasts", "five short blasts", "danger signal", "doubt signal", "one prolonged", "bend", "overtaking signal", "passing signal", "port to port", "starboard to starboard", "radiotelephone", "light signal"]
+  },
+  "Rule 35": {
+    "title": "Sound Signals in Restricted Visibility",
+    "part": "D - Sound and Light Signals",
+    "summary": "Power-driven making way: one prolonged every 2 min. Underway not making way: two prolonged every 2 min. NUC, RAM, constrained by draft, sailing, fishing, towing: one prolonged two short every 2 min. Last towed vessel (if manned): one prolonged three short. Anchored: bell 5 sec every minute. 100m+ also gong aft. Aground: bell plus 3 distinct strokes before and after. Pilot vessel: four short blasts as identity signal.",
+    "keywords": ["fog signal", "restricted visibility", "one prolonged", "two prolonged", "one prolonged two short", "one prolonged three short", "bell", "gong", "5 seconds", "every 2 minutes", "every minute", "anchored", "aground", "making way", "not making way", "three distinct strokes", "pilot", "four short"]
+  },
+  "Rule 36": {
+    "title": "Signals to Attract Attention",
+    "part": "D - Sound and Light Signals",
+    "summary": "Any vessel may make light or sound signals to attract attention, provided they cannot be mistaken for any signal authorized elsewhere in these Rules. Shall not use high-intensity lights (strobe) to impair lookout.",
+    "keywords": ["attract attention", "signal", "light signal", "strobe", "searchlight"]
+  },
+  "Rule 37": {
+    "title": "Distress Signals",
+    "part": "D - Sound and Light Signals",
+    "summary": "Vessel in distress and requiring assistance shall use signals described in Annex IV. Distress signals include: gun fired at intervals, continuous sounding of fog signal, rockets/shells with red stars, SOS, Mayday, orange smoke, flames, EPIRB, red flares.",
+    "keywords": ["distress", "Mayday", "SOS", "red flare", "orange smoke", "flames", "EPIRB", "rockets", "gun fired", "distress signal", "requiring assistance", "N over C"]
+  },
+  "Rule 38": {
+    "title": "Exemptions",
+    "part": "E - Exemptions",
+    "summary": "Vessels which comply with previous rules requirements are exempted from full compliance with new rules for specified time periods regarding light repositioning, characteristics, and additional lights.",
+    "keywords": ["exemption", "exempt", "keel laid", "previous rules"]
+  },
+  "Annex I": {
+    "title": "Positioning and Technical Details of Lights and Shapes",
+    "part": "Annexes",
+    "summary": "Detailed technical specifications for light positions, vertical/horizontal placement, spacing, screen angles, and shape dimensions. Includes minimum heights above hull, spacing between masthead lights, and intensity calculations.",
+    "keywords": ["positioning", "technical details", "height", "horizontal distance", "screen", "intensity", "candela"]
+  },
+  "Annex III": {
+    "title": "Technical Details of Sound Signal Appliances",
+    "part": "Annexes",
+    "summary": "Specifications for whistles including frequency ranges, audibility ranges, directional properties, and bell/gong specifications.",
+    "keywords": ["frequency", "hertz", "audibility", "decibel", "whistle specification"]
+  },
+  "Annex IV": {
+    "title": "Distress Signals",
+    "part": "Annexes",
+    "summary": "Lists all recognized distress signals: gun, continuous sounding, rockets with red stars, SOS, Mayday by radio, NC flags, square flag over ball, flames, red rocket/flare, orange smoke, arm signals, EPIRB, approved signals.",
+    "keywords": ["distress signals", "gun fired", "red stars", "SOS", "Mayday", "NC", "square flag", "ball", "flames", "red rocket", "orange smoke", "arm signals", "EPIRB"]
+  },
+  "Annex V": {
+    "title": "Pilot Rules (Inland Only)",
+    "part": "Annexes",
+    "summary": "Law enforcement vessels may display flashing blue light. Public safety vessels may display alternating red and yellow light. Vessel Traffic Service regulations. Western Rivers considerations.",
+    "keywords": ["law enforcement", "blue light", "flashing blue", "public safety", "red and yellow", "vessel traffic service"]
+  }
+}
