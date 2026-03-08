@@ -39,6 +39,7 @@ targets:
           - UIInterfaceOrientationPortraitUpsideDown
         UIApplicationSceneManifest:
           UIApplicationSupportsMultipleScenes: false
+        UIRequiresFullScreen: true
         NSHumanReadableDescription: SWOS Advanced Shiphandling COLREGS exam preparation
 
     settings:
@@ -52,6 +53,7 @@ targets:
           - "@executable_path/Frameworks"
         SWIFT_EMIT_LOC_STRINGS: "YES"
         CODE_SIGN_STYLE: Automatic
+        DEVELOPMENT_TEAM: T2L49AHSZ6
       configs:
         Debug:
           DEBUG_INFORMATION_FORMAT: dwarf
